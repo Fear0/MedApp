@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Barcode Scanner</string>
+    <string name="scan_barcode">SCAN BARCODE</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">item Detail</string>
+    <string name="linkToSite">
+        <a> No API key? </a>
+    <a href="https://www.barcodelookup.com/">Click on me! </a></string>
+    <string name="start_scan"> start scanning </string>
+    <string name="review_button"> read reviews </string>
+    <string name="delete_button_text"> delete product</string>
+    <string name= "scan_more_text"> scan more </string>
+</resources>
